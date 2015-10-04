@@ -1,0 +1,4 @@
+[package]
+name = "test_box"
+version = "0.1.0"
+authors = ["Johan Larsson <johan_gavle1@hotmail.com>"]
